@@ -3,4 +3,5 @@ For my something awesome project, I decided to recreate some of the challenges t
 
 Please read the **Quick guide to setup ctf challenge.pdf** to setup the challenge
 
+Main objective: Read the secret file contains flag
 Flag format: FLAG{...}
