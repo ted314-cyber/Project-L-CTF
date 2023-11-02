@@ -9,4 +9,4 @@ Here are the tools that might help you complete the challenge: Burp Suite and OW
 
 You can solve it either as a black-box or a white-box problem, but it is best to approach it as a black-box.
 
-Please skip challenge 6 and 7 due to unforeseen code behavior
+Please skip challenge 6 and 7 command injection due to unforeseen code behavior
